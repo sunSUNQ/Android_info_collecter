@@ -1,0 +1,517 @@
+I/System.out: YouTube:
+I/System.out: DataDir:  /data/user/0/com.google.android.youtube
+              PName:  com.google.android.youtube
+              应用存放数据目录:  /system/app/YouTube/YouTube.apk
+              FLAGS: 819707461
+              Size:  43.541664M
+              Corner display cutout:
+              DataDir:  /data/user/0/com.android.internal.display.cutout.emulation.corner
+              PName:  com.android.internal.display.cutout.emulation.corner
+              应用存放数据目录:  /vendor/overlay/DisplayCutoutEmulationCorner/DisplayCutoutEmulationCornerOverlay.apk
+              FLAGS: 814267969
+              Size:  0.027677536M
+I/System.out: Android Services Library:
+              DataDir:  /data/user_de/0/com.google.android.ext.services
+              PName:  com.google.android.ext.services
+              应用存放数据目录:  /system/priv-app/GoogleExtServices/GoogleExtServices.apk
+              FLAGS: 814267973
+              Size:  0.04336357M
+              Double display cutout:
+              DataDir:  /data/user/0/com.android.internal.display.cutout.emulation.double
+              PName:  com.android.internal.display.cutout.emulation.double
+              应用存放数据目录:  /vendor/overlay/DisplayCutoutEmulationDouble/DisplayCutoutEmulationDoubleOverlay.apk
+              FLAGS: 814267969
+              Size:  0.027677536M
+              Phone and Messaging Storage:
+              DataDir:  /data/user_de/0/com.android.providers.telephony
+              PName:  com.android.providers.telephony
+              应用存放数据目录:  /system/priv-app/TelephonyProvider/TelephonyProvider.apk
+I/System.out: FLAGS: 1015791109
+              Size:  0.38386154M
+              Google:
+              DataDir:  /data/user/0/com.google.android.googlequicksearchbox
+              PName:  com.google.android.googlequicksearchbox
+              应用存放数据目录:  /system/priv-app/Velvet/Velvet.apk
+              FLAGS: 953925189
+              Size:  118.5297M
+              Calendar Storage:
+              DataDir:  /data/user/0/com.android.providers.calendar
+              PName:  com.android.providers.calendar
+              应用存放数据目录:  /system/priv-app/CalendarProvider/CalendarProvider.apk
+              FLAGS: 814235205
+              Size:  0.6804714M
+              Media Storage:
+              DataDir:  /data/user/0/com.android.providers.media
+              PName:  com.android.providers.media
+              应用存放数据目录:  /system/priv-app/MediaProvider/MediaProvider.apk
+              FLAGS: 818429509
+              Size:  0.31034088M
+              Google One Time Init:
+I/System.out: DataDir:  /data/user/0/com.google.android.onetimeinitializer
+              PName:  com.google.android.onetimeinitializer
+              应用存放数据目录:  /system/priv-app/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk
+              FLAGS: 814267973
+              Size:  0.5628948M
+              Android Shared Library:
+              DataDir:  /data/user_de/0/com.google.android.ext.shared
+              PName:  com.google.android.ext.shared
+              应用存放数据目录:  /system/app/GoogleExtShared/GoogleExtShared.apk
+              FLAGS: 814235205
+              Size:  0.008146286M
+              Sun Application:
+              DataDir:  /data/user/0/com.example.varas.sunapplication
+              PName:  com.example.varas.sunapplication
+              应用存放数据目录:  /data/app/com.example.varas.sunapplication-PX6RPHNa81MZCibYitS-zQ==/base.apk
+              FLAGS: 818462534
+              Size:  0.041542053M
+I/System.out: Files:
+              DataDir:  /data/user/0/com.android.documentsui
+              PName:  com.android.documentsui
+              应用存放数据目录:  /system/priv-app/DocumentsUI/DocumentsUI.apk
+              FLAGS: 818527813
+              Size:  4.4879265M
+              External Storage:
+              DataDir:  /data/user/0/com.android.externalstorage
+              PName:  com.android.externalstorage
+              应用存放数据目录:  /system/priv-app/ExternalStorageProvider/ExternalStorageProvider.apk
+              FLAGS: 814267973
+              Size:  0.06289482M
+              HTML Viewer:
+              DataDir:  /data/user/0/com.android.htmlviewer
+              PName:  com.android.htmlviewer
+              应用存放数据目录:  /system/app/HTMLViewer/HTMLViewer.apk
+              FLAGS: 948485701
+              Size:  0.023833275M
+              Companion Device Manager:
+              DataDir:  /data/user/0/com.android.companiondevicemanager
+              PName:  com.android.companiondevicemanager
+I/System.out: 应用存放数据目录:  /system/app/CompanionDeviceManager/CompanionDeviceManager.apk
+              FLAGS: 818429509
+              Size:  0.020216942M
+              MmsService:
+              DataDir:  /data/user/0/com.android.mms.service
+              PName:  com.android.mms.service
+              应用存放数据目录:  /system/priv-app/MmsService/MmsService.apk
+              FLAGS: 948485701
+              Size:  0.23092842M
+              Download Manager:
+              DataDir:  /data/user/0/com.android.providers.downloads
+              PName:  com.android.providers.downloads
+              应用存放数据目录:  /system/priv-app/DownloadProvider/DownloadProvider.apk
+              FLAGS: 952647237
+              Size:  0.8563309M
+              Messages:
+              DataDir:  /data/user/0/com.google.android.apps.messaging
+              PName:  com.google.android.apps.messaging
+              应用存放数据目录:  /system/app/PrebuiltBugle/PrebuiltBugle.apk
+              FLAGS: 952876613
+              Size:  12.200555M
+              ConfigUpdater:
+I/System.out: DataDir:  /data/user/0/com.google.android.configupdater
+              PName:  com.google.android.configupdater
+              应用存放数据目录:  /system/priv-app/ConfigUpdater/ConfigUpdater.apk
+              FLAGS: 948452933
+              Size:  5.216631M
+              Package Access Helper:
+              DataDir:  /data/user_de/0/com.android.defcontainer
+              PName:  com.android.defcontainer
+              应用存放数据目录:  /system/priv-app/DefaultContainerService/DefaultContainerService.apk
+              FLAGS: 814235205
+              Size:  0.03164482M
+              Downloads:
+              DataDir:  /data/user/0/com.android.providers.downloads.ui
+              PName:  com.android.providers.downloads.ui
+              应用存放数据目录:  /system/priv-app/DownloadProviderUi/DownloadProviderUi.apk
+              FLAGS: 818462277
+              Size:  0.25867462M
+              license checker:
+              DataDir:  /data/user/0/com.android.vending
+              PName:  com.android.vending
+              应用存放数据目录:  /system/app/LicenseChecker/LicenseChecker.apk
+I/System.out: FLAGS: 814267973
+              Size:  0.011987686M
+              PacProcessor:
+              DataDir:  /data/user/0/com.android.pacprocessor
+              PName:  com.android.pacprocessor
+              应用存放数据目录:  /system/app/PacProcessor/PacProcessor.apk
+              FLAGS: 814267973
+              Size:  0.012052536M
+              Sim App Dialog:
+              DataDir:  /data/user/0/com.android.simappdialog
+              PName:  com.android.simappdialog
+              应用存放数据目录:  /system/app/SimAppDialog/SimAppDialog.apk
+              FLAGS: 814267973
+              Size:  0.12525368M
+              Tall display cutout:
+              DataDir:  /data/user/0/com.android.internal.display.cutout.emulation.tall
+              PName:  com.android.internal.display.cutout.emulation.tall
+              应用存放数据目录:  /vendor/overlay/DisplayCutoutEmulationTall/DisplayCutoutEmulationTallOverlay.apk
+              FLAGS: 814267969
+              Size:  0.027677536M
+              Certificate Installer:
+              DataDir:  /data/user/0/com.android.certinstaller
+              PName:  com.android.certinstaller
+              应用存放数据目录:  /system/app/CertInstaller/CertInstaller.apk
+I/System.out: FLAGS: 814235205
+              Size:  0.39143753M
+              Android System:
+              DataDir:  /data/system
+              PName:  android
+              应用存放数据目录:  /system/framework/framework-res.apk
+              FLAGS: 818462217
+              Size:  41.464188M
+              Contacts:
+              DataDir:  /data/user/0/com.android.contacts
+              PName:  com.android.contacts
+              应用存放数据目录:  /system/priv-app/Contacts/Contacts.apk
+              FLAGS: 818462277
+              Size:  10.644943M
+              Camera:
+              DataDir:  /data/user/0/com.android.camera2
+              PName:  com.android.camera2
+              应用存放数据目录:  /system/app/Camera2/Camera2.apk
+              FLAGS: 819510341
+              Size:  7.3195486M
+              Google Indic Keyboard:
+              DataDir:  /data/user/0/com.google.android.apps.inputmethod.hindi
+              PName:  com.google.android.apps.inputmethod.hindi
+              应用存放数据目录:  /system/app/GoogleHindiIME/GoogleHindiIME.apk
+              FLAGS: 948485701
+              Size:  10.694551M
+I/System.out: PAINT.APK:
+              DataDir:  /data/user/0/com.android.egg
+              PName:  com.android.egg
+              应用存放数据目录:  /system/app/EasterEgg/EasterEgg.apk
+              FLAGS: 814267973
+              Size:  0.3966608M
+              MTP Host:
+              DataDir:  /data/user/0/com.android.mtp
+              PName:  com.android.mtp
+              应用存放数据目录:  /system/priv-app/MtpDocumentsProvider/MtpDocumentsProvider.apk
+              FLAGS: 814267973
+              Size:  0.16932678M
+I/System.out: Nfc Service:
+              DataDir:  /data/user/0/com.android.nfc
+              PName:  com.android.nfc
+              应用存放数据目录:  /system/app/NfcNci/NfcNci.apk
+              FLAGS: 281591365
+              Size:  0.41632652M
+              Clock:
+              DataDir:  /data/user/0/com.google.android.deskclock
+              PName:  com.google.android.deskclock
+              应用存放数据目录:  /system/app/PrebuiltDeskClockGoogle/PrebuiltDeskClockGoogle.apk
+              FLAGS: 952876613
+              Size:  3.9266825M
+              Intent Filter Verification Service:
+              DataDir:  /data/user/0/com.android.statementservice
+              PName:  com.android.statementservice
+              应用存放数据目录:  /system/priv-app/StatementService/StatementService.apk
+              FLAGS: 814235205
+              Size:  0.07461357M
+              Gmail:
+              DataDir:  /data/user/0/com.google.android.gm
+              PName:  com.google.android.gm
+              应用存放数据目录:  /system/app/PrebuiltGmail/PrebuiltGmail.apk
+              FLAGS: 952876613
+              Size:  15.038146M
+              Settings Suggestions:
+I/System.out: DataDir:  /data/user/0/com.android.settings.intelligence
+              PName:  com.android.settings.intelligence
+              应用存放数据目录:  /system/priv-app/SettingsIntelligence/SettingsIntelligence.apk
+              FLAGS: 818462277
+              Size:  2.2675095M
+              Dark:
+              DataDir:  /data/user/0/com.android.systemui.theme.dark
+              PName:  com.android.systemui.theme.dark
+              应用存放数据目录:  /vendor/overlay/SysuiDarkTheme/SysuiDarkThemeOverlay.apk
+              FLAGS: 814267969
+              Size:  0.023851395M
+              Android Setup:
+              DataDir:  /data/user/0/com.google.android.setupwizard
+              PName:  com.google.android.setupwizard
+              应用存放数据目录:  /system/priv-app/SetupWizard/SetupWizard.apk
+              FLAGS: 952647173
+              Size:  10.406241M
+              Settings Storage:
+              DataDir:  /data/user_de/0/com.android.providers.settings
+              PName:  com.android.providers.settings
+              应用存放数据目录:  /system/priv-app/SettingsProvider/SettingsProvider.apk
+              FLAGS: 814398981
+              Size:  0.2977991M
+              Google Play Music:
+              DataDir:  /data/user/0/com.google.android.music
+              PName:  com.google.android.music
+I/System.out: 应用存放数据目录:  /system/app/Music2/Music2.apk
+              FLAGS: 952876645
+              Size:  8.601348M
+              Print Spooler:
+              DataDir:  /data/user/0/com.android.printspooler
+              PName:  com.android.printspooler
+              应用存放数据目录:  /system/app/PrintSpooler/PrintSpooler.apk
+              FLAGS: 818429509
+              Size:  0.53583527M
+              Basic Daydreams:
+              DataDir:  /data/user/0/com.android.dreams.basic
+              PName:  com.android.dreams.basic
+              应用存放数据目录:  /system/app/BasicDreams/BasicDreams.apk
+              FLAGS: 814267973
+              Size:  0.039710045M
+              SecureElementApplication:
+              DataDir:  /data/user/0/com.android.se
+I/System.out: PName:  com.android.se
+              应用存放数据目录:  /system/app/SecureElement/SecureElement.apk
+              FLAGS: 814267981
+              Size:  0.011987686M
+              Input Devices:
+              DataDir:  /data/user_de/0/com.android.inputdevices
+              PName:  com.android.inputdevices
+              应用存放数据目录:  /system/priv-app/InputDevices/InputDevices.apk
+              FLAGS: 814267909
+              Size:  0.24974632M
+              Phone:
+              DataDir:  /data/user/0/com.google.android.dialer
+              PName:  com.google.android.dialer
+              应用存放数据目录:  /system/priv-app/GoogleDialer/GoogleDialer.apk
+              FLAGS: 550223429
+              Size:  13.823789M
+              Default Print Service:
+              DataDir:  /data/user/0/com.android.bips
+              PName:  com.android.bips
+              应用存放数据目录:  /system/app/BuiltInPrintService/BuiltInPrintService.apk
+              FLAGS: 818462277
+              Size:  0.21980095M
+              MusicFX:
+I/System.out: DataDir:  /data/user/0/com.android.musicfx
+              PName:  com.android.musicfx
+              应用存放数据目录:  /system/priv-app/MusicFX/MusicFX.apk
+              FLAGS: 814235205
+              Size:  0.11802578M
+              Drive:
+              DataDir:  /data/user/0/com.google.android.apps.docs
+              PName:  com.google.android.apps.docs
+              应用存放数据目录:  /system/app/Drive/Drive.apk
+              FLAGS: 948682309
+              Size:  15.676965M
+              Maps:
+              DataDir:  /data/user/0/com.google.android.apps.maps
+              PName:  com.google.android.apps.maps
+              应用存放数据目录:  /system/app/Maps/Maps.apk
+              FLAGS: 953925189
+              Size:  26.276722M
+              Emu01 display cutout:
+              DataDir:  /data/user/0/com.android.internal.display.cutout.emulation.emu01
+              PName:  com.android.internal.display.cutout.emulation.emu01
+              应用存放数据目录:  /vendor/overlay/DisplayCutoutEmulationEmu01/DisplayCutoutEmulationEmu01Overlay.apk
+              FLAGS: 814267969
+              Size:  0.015958786M
+              Cell Broadcasts:
+              DataDir:  /data/user_de/0/com.android.cellbroadcastreceiver
+I/System.out: PName:  com.android.cellbroadcastreceiver
+              应用存放数据目录:  /system/priv-app/CellBroadcastReceiver/CellBroadcastReceiver.apk
+              FLAGS: 818527813
+              Size:  8.613374M
+              Android System WebView:
+              DataDir:  /data/user/0/com.google.android.webview
+              PName:  com.google.android.webview
+              应用存放数据目录:  /system/app/WebViewStub/WebViewStub.apk
+              FLAGS: -1333215675
+              Size:  0.38417912M
+              Call Management:
+              DataDir:  /data/user_de/0/com.android.server.telecom
+              PName:  com.android.server.telecom
+              应用存放数据目录:  /system/priv-app/Telecom/Telecom.apk
+              FLAGS: 818429509
+              Size:  6.4942007M
+              Google Contacts Sync:
+              DataDir:  /data/user/0/com.google.android.syncadapters.contacts
+              PName:  com.google.android.syncadapters.contacts
+              应用存放数据目录:  /system/app/GoogleContactsSyncAdapter/GoogleContactsSyncAdapter.apk
+              FLAGS: 948452933
+              Size:  0.6477041M
+              Key Chain:
+I/System.out: DataDir:  /data/user/0/com.android.keychain
+              PName:  com.android.keychain
+              应用存放数据目录:  /system/app/KeyChain/KeyChain.apk
+              FLAGS: 814235205
+              Size:  0.10608578M
+              Chrome:
+              DataDir:  /data/user/0/com.android.chrome
+              PName:  com.android.chrome
+              应用存放数据目录:  /system/app/Chrome/Chrome.apk
+              FLAGS: -1597260219
+              Size:  86.89147M
+              Package installer:
+              DataDir:  /data/user_de/0/com.google.android.packageinstaller
+              PName:  com.google.android.packageinstaller
+              应用存放数据目录:  /system/priv-app/GooglePackageInstaller/GooglePackageInstaller.apk
+              FLAGS: 818429509
+              Size:  8.568824M
+              Google Play services:
+              DataDir:  /data/user/0/com.google.android.gms
+              PName:  com.google.android.gms
+              应用存放数据目录:  /system/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk
+              FLAGS: -1194836411
+              Size:  82.99623M
+              Google Services Framework:
+              DataDir:  /data/user/0/com.google.android.gsf
+              PName:  com.google.android.gsf
+I/System.out: 应用存放数据目录:  /system/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk
+              FLAGS: 411582021
+              Size:  4.6014585M
+              Google Text-to-speech Engine:
+              DataDir:  /data/user/0/com.google.android.tts
+              PName:  com.google.android.tts
+              应用存放数据目录:  /system/app/GoogleTTS/GoogleTTS.apk
+              FLAGS: 818429509
+              Size:  19.615984M
+              Live data wallpapers:
+              DataDir:  /data/user/0/com.ustwo.lwp
+              PName:  com.ustwo.lwp
+              应用存放数据目录:  /system/app/WallpapersUsTwo/WallpapersUsTwo.apk
+              FLAGS: 948452933
+              Size:  5.1310396M
+              Call Log Backup/Restore:
+              DataDir:  /data/user/0/com.android.calllogbackup
+              PName:  com.android.calllogbackup
+              应用存放数据目录:  /system/priv-app/CallLogBackup/CallLogBackup.apk
+              FLAGS: 814333509
+              Size:  0.03579712M
+              Google Partner Setup:
+              DataDir:  /data/user/0/com.google.android.partnersetup
+              PName:  com.google.android.partnersetup
+              应用存放数据目录:  /system/priv-app/GooglePartnerSetup/GooglePartnerSetup.apk
+              FLAGS: 814235205
+I/System.out: Size:  2.1512737M
+              Google Wallpaper Images:
+              DataDir:  /data/user/0/com.google.android.apps.wallpaper.nexus
+              PName:  com.google.android.apps.wallpaper.nexus
+              应用存放数据目录:  /system/app/NexusWallpapersStubPrebuilt/NexusWallpapersStubPrebuilt.apk
+              FLAGS: 948485697
+              Size:  18.271124M
+              Google Play Movies & TV:
+              DataDir:  /data/user/0/com.google.android.videos
+              PName:  com.google.android.videos
+              应用存放数据目录:  /system/app/Videos/Videos.apk
+              FLAGS: 953925189
+              Size:  12.977675M
+              Pixel Launcher:
+              DataDir:  /data/user/0/com.google.android.apps.nexuslauncher
+              PName:  com.google.android.apps.nexuslauncher
+              应用存放数据目录:  /system/priv-app/NexusLauncherPrebuilt/NexusLauncherPrebuilt.apk
+              FLAGS: 885767749
+              Size:  5.39898M
+              CarrierDefaultApp:
+              DataDir:  /data/user/0/com.android.carrierdefaultapp
+              PName:  com.android.carrierdefaultapp
+              应用存放数据目录:  /system/app/CarrierDefaultApp/CarrierDefaultApp.apk
+              FLAGS: 948485701
+              Size:  0.11776352M
+I/System.out: ProxyHandler:
+              DataDir:  /data/user_de/0/com.android.proxyhandler
+              PName:  com.android.proxyhandler
+              应用存放数据目录:  /system/priv-app/ProxyHandler/ProxyHandler.apk
+              FLAGS: 814267973
+              Size:  0.023832321M
+              Live earth wallpapers:
+              DataDir:  /data/user/0/com.breel.geswallpapers
+              PName:  com.breel.geswallpapers
+              应用存放数据目录:  /system/app/WallpapersBReel/WallpapersBReel.apk
+              FLAGS: 818429509
+              Size:  77.31703M
+              WebView Shell:
+              DataDir:  /data/user/0/org.chromium.webview_shell
+              PName:  org.chromium.webview_shell
+              应用存放数据目录:  /system/app/Browser2/Browser2.apk
+              FLAGS: 948485701
+              Size:  0.02814293M
+              Market Feedback Agent:
+              DataDir:  /data/user/0/com.google.android.feedback
+              PName:  com.google.android.feedback
+              应用存放数据目录:  /system/priv-app/GoogleFeedback/GoogleFeedback.apk
+              FLAGS: 948485701
+              Size:  0.77256966M
+              Print Service Recommendation Service:
+              DataDir:  /data/user/0/com.google.android.printservice.recommendation
+I/System.out: PName:  com.google.android.printservice.recommendation
+              应用存放数据目录:  /system/app/GooglePrintRecommendationService/GooglePrintRecommendationService.apk
+              FLAGS: 814235141
+              Size:  0.045861244M
+              Photos:
+              DataDir:  /data/user/0/com.google.android.apps.photos
+              PName:  com.google.android.apps.photos
+              应用存放数据目录:  /system/app/Photos/Photos.apk
+              FLAGS: 953794117
+              Size:  59.287495M
+              Calendar:
+              DataDir:  /data/user/0/com.google.android.calendar
+              PName:  com.google.android.calendar
+              应用存放数据目录:  /system/app/CalendarGooglePrebuilt/CalendarGooglePrebuilt.apk
+              FLAGS: 952876613
+              Size:  19.247402M
+              Work profile setup:
+              DataDir:  /data/user/0/com.android.managedprovisioning
+              PName:  com.android.managedprovisioning
+              应用存放数据目录:  /system/priv-app/ManagedProvisioning/ManagedProvisioning.apk
+I/System.out: FLAGS: 952679941
+              Size:  3.5170946M
+              Live Wallpaper Picker:
+              DataDir:  /data/user/0/com.android.wallpaper.livepicker
+              PName:  com.android.wallpaper.livepicker
+              应用存放数据目录:  /system/app/LiveWallpapersPicker/LiveWallpapersPicker.apk
+              FLAGS: 818462277
+              Size:  0.87731457M
+              NetSpeed:
+              DataDir:  /data/user/0/com.android.netspeed
+              PName:  com.android.netspeed
+              应用存放数据目录:  /system/app/NetSpeed/NetSpeed.apk
+              FLAGS: 814267973
+              Size:  0.016025543M
+              Google Backup Transport:
+              DataDir:  /data/user/0/com.google.android.backuptransport
+              PName:  com.google.android.backuptransport
+              应用存放数据目录:  /system/priv-app/GoogleBackupTransport/GoogleBackupTransport.apk
+              FLAGS: 814267973
+              Size:  0.03555107M
+              Storage Manager:
+I/System.out: DataDir:  /data/user/0/com.android.storagemanager
+              PName:  com.android.storagemanager
+              应用存放数据目录:  /system/priv-app/StorageManager/StorageManager.apk
+              FLAGS: 818429509
+              Size:  6.026044M
+              Bookmark Provider:
+              DataDir:  /data/user/0/com.android.bookmarkprovider
+              PName:  com.android.bookmarkprovider
+              应用存放数据目录:  /system/app/BookmarkProvider/BookmarkProvider.apk
+              FLAGS: 814267973
+              Size:  0.024093628M
+I/System.out: Settings:
+              DataDir:  /data/user_de/0/com.android.settings
+              PName:  com.android.settings
+              应用存放数据目录:  /system/priv-app/Settings/Settings.apk
+I/System.out: FLAGS: 952647237
+              Size:  44.608887M
+              Google Pinyin Input:
+              DataDir:  /data/user/0/com.google.android.inputmethod.pinyin
+              PName:  com.google.android.inputmethod.pinyin
+              应用存放数据目录:  /system/app/GooglePinyinIME/GooglePinyinIME.apk
+              FLAGS: 814399045
+              Size:  8.721786M
+              Calculator:
+              DataDir:  /data/user/0/com.android.calculator2
+              PName:  com.android.calculator2
+              应用存放数据目录:  /system/app/ExactCalculator/ExactCalculator.apk
+              FLAGS: 818429509
+              Size:  0.4240446M
+              VpnDialogs:
+              DataDir:  /data/user/0/com.android.vpndialogs
+              PName:  com.android.vpndialogs
+              应用存放数据目录:  /system/priv-app/VpnDialogs/VpnDialogs.apk
+              FLAGS: 814235205
+              Size:  0.17291927M
+              Wallpapers:
+              DataDir:  /data/user/0/com.google.android.apps.wallpaper
+I/System.out: PName:  com.google.android.apps.wallpaper
+              应用存放数据目录:  /system/priv-app/WallpaperPickerGooglePrebuilt/WallpaperPickerGooglePrebuilt.apk
+              FLAGS: 952876613
+              Size:  3.2257023M
+
