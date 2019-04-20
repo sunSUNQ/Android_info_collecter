@@ -189,4 +189,4 @@ public class MainActivity extends AppCompatActivity {
 
 ## 运行结果截图
 
-![1555750792395](C:\Users\varas\AppData\Roaming\Typora\typora-user-images\1555750792395.png)
+![1555750792395](https://github.com/sunSUNQ/Android_info_collecter/raw/master/1555750792395.png)
